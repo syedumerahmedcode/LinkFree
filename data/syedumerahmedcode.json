@@ -1,0 +1,28 @@
+{
+	"name": "Syed Umer Ahmed",
+	"displayStatsPublic": true,
+	"type": "personal",
+	"bio": "Senior software engineer, Java specialist who likes data staructures and all things programming. Also like coffee!",
+	"tags": [
+		"Java",
+		"Spring Boot",
+		"Oracle",
+		"Quarkus",
+		"PostgreSQL",
+		"REST APIs",
+		"DevOps"
+	],
+	"links": [{
+			"name": "Follow me on Twitter",
+			"url": "https://twitter.com/syedumercsm",
+			"icon": "FaTwitter",
+			"color": "#1DA1F2"
+		},
+		{
+			"name": "Check me out on GitHub",
+			"url": "https://github.com/syedumerahmedcode",
+			"icon": "FaGithub",
+			"color": "#181717"
+		}
+	]
+}
